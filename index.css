@@ -1,0 +1,168 @@
+.top {
+    height: 150px;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div .white {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div .black{
+    width: 50%;
+    height: 50%;
+}
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
+
+.up {
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+
+
+.red {
+    background-color: red;
+    width: 25%;
+    height: 75%;
+}
+
+.or {
+    background-color: orange;
+    width: 25%;
+    height: 75%;
+}
+.bl {
+    background-color: skyblue;
+    width: 25%;
+    height: 75%;
+}
+.yel {
+    background-color: yellow;
+    width: 25%;
+    height: 75%;
+}
+
+
+.ft{
+    display: flex;
+} 
+
+.lb {
+    width: 33%;
+    height: 500px;
+    background-color: green;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.or1 {
+    background-color: orange;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-self: self-end;
+
+}
+.purp {
+    background-color: purple;
+    width: 50%;
+    height: 80%;
+    align-self: self-end;
+}
+.yel1{
+    background-color: yellow;
+    width: 50%;
+    height: 80%;
+    align-self: self-end;
+}
+
+.cen {
+    width: 34%;
+    height: 500px;
+    background-color: skyblue;
+    display: flex;
+    align-self: center;
+}
+.re {
+    width: 33%;
+    height: 80%;
+    background-color: red;
+    align-self: self-end;
+}
+.yel2 {
+    width: 33%;
+    height: 80%;
+    background-color: yellow;
+    display: flex;
+    align-self: self-end;
+}
+.or2 {
+    width: 50%;
+    height: 80%;
+    background-color: orange;
+    align-self: self-end;
+}
+.or3 {
+    width: 34%;
+    height: 80%;
+    background-color: orange;
+    align-self: self-end;
+}
+.red1 {
+    width: 50%;
+    height: 40%;
+    background-color: red;
+    align-self: self-end;
+}
+
+.rb {
+    width: 33%;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+}
+.sk {
+    width: 33%;
+    height: 40%;
+    background-color: skyblue;
+    align-self: self-end;
+}
+.yel3 {
+    width: 33%;
+    height: 40%;
+    background-color: yellow;
+    margin-top: 220px;
+}
+.or4 {
+    width: 34%;
+    height: 40%;
+    background-color: orange;
+    display: flex;
+    align-self: center;
+}
+.b {
+    width: 80%;
+    height: 10%;
+    margin-top: 65px ;
+    background-color: black;
+    align-self: center;
+    align-content: center;
+}
+.b1{
+    width: 75%;
+    height: 10%;
+    margin-bottom: 65px ;
+    background-color: black;
+    align-self: center; 
+}
